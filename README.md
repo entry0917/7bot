@@ -1,2 +1,2 @@
 # 7bot
-Discord Bot, 7Bot
+7봇은 디스코드 봇입니다
